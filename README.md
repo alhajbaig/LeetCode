@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/alhajbaig/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/alhajbaig/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/alhajbaig/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alhajbaig/LeetCode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/alhajbaig/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
