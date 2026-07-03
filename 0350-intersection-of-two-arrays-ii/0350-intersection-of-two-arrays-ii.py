@@ -5,13 +5,18 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
+        freq = {}
         ans = []
 
-        for i in range(len(nums1)):
-            for j in range(len(nums2)):
-                if nums1[i] == nums2[j]:
-                    ans.append(nums1[i])
-                    nums2[j] = None      # Mark as used
-                    break
+        for num in nums1:
+            if num in freq:
+                freq[num] += 1
+            else:
+                freq[num] = 1
+
+        for num in nums2:
+            if num in freq and freq[num] > 0:
+                ans.append(num)
+                freq[num] -= 1
 
         return ans
