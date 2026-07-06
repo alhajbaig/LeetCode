@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/alhajbaig/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alhajbaig/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/alhajbaig/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1763-longest-nice-substring](https://github.com/alhajbaig/LeetCode/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/alhajbaig/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/alhajbaig/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/alhajbaig/LeetCode/tree/master/0541-reverse-string-ii) |
+| [1763-longest-nice-substring](https://github.com/alhajbaig/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/alhajbaig/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -81,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/alhajbaig/LeetCode/tree/master/0136-single-number) |
+| [1763-longest-nice-substring](https://github.com/alhajbaig/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alhajbaig/LeetCode/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/alhajbaig/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -103,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/alhajbaig/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/alhajbaig/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1763-longest-nice-substring](https://github.com/alhajbaig/LeetCode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
