@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/alhajbaig/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/alhajbaig/LeetCode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/alhajbaig/LeetCode/tree/master/0415-add-strings) |
 ## Dynamic Programming
