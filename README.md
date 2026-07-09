@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/alhajbaig/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/alhajbaig/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/alhajbaig/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alhajbaig/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/alhajbaig/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/alhajbaig/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/alhajbaig/LeetCode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/alhajbaig/LeetCode/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
